@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI Dynamic IT Operations Orchestrator",
+  "description": "An enterprise DevOps monitoring system that uses AI agents to monitor infrastructure, detect anomalies, predict failures, and automatically remediate incidents across multi-cloud environments.",
+  "requestFramePermissions": []
+}
